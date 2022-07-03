@@ -9733,7 +9733,7 @@
                   children: d[i],
                 }),
             (0, o.jsx)("ul", { className: "answer__list", children: f }),
-            ";",
+            ,
           ],
         });
       }
