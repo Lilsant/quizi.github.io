@@ -9739,10 +9739,10 @@
       }
       var u =
         n.p +
-        "/quizi.github.io/static/media/adventure-man.b06619f08a2aba6240c49186e3aa9dc0.svg";
+        "./quizi.github.io/static/media/adventure-man.b06619f08a2aba6240c49186e3aa9dc0.svg";
       var s =
         n.p +
-        "/quizi.github.io/static/media/finalImage.3cc505dc5f9d425bb9278584620c594e.svg";
+        "./quizi.github.io/static/media/finalImage.3cc505dc5f9d425bb9278584620c594e.svg";
       function c(e) {
         var t = e.startNewGame,
           n = e.finalScore,
