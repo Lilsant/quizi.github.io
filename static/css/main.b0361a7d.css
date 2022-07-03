@@ -327,7 +327,7 @@ code {
 }
 .app {
   align-items: center;
-  background-image: url(/media/background.6f6a3c810890410247c5.png);
+  background-image: url(../media/background.6f6a3c810890410247c5.png);
   background-position: 50%;
   background-size: cover;
   display: flex;
