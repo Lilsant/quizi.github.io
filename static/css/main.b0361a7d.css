@@ -57,7 +57,7 @@ code {
   pointer-events: none;
 }
 .right:after {
-  background-image: url(./static/media/right.da465855a4fe9c0bf256.svg);
+  background-image: url(../media/right.da465855a4fe9c0bf256.svg);
   background-size: contain;
   content: "";
   height: 25px;
@@ -77,7 +77,7 @@ code {
   pointer-events: none;
 }
 .wrong:after {
-  background-image: url(./static/media/wrong.ca39b0df248e8637bb28.svg);
+  background-image: url(../media/wrong.ca39b0df248e8637bb28.svg);
   background-size: contain;
   content: "";
   height: 25px;
@@ -271,7 +271,7 @@ code {
 }
 .info__close-btn {
   background-color: transparent;
-  background-image: url(./static/media/close.1ee08f831530a1ef84f6.svg);
+  background-image: url(../media/close.1ee08f831530a1ef84f6.svg);
   background-size: cover;
   border: none;
   cursor: pointer;
